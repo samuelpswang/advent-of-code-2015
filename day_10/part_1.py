@@ -1,0 +1,28 @@
+iterations = 40
+
+prompt = ""
+with open("input.txt", "r") as file:
+    for line in file:
+        prompt = line.strip("\n")
+
+count = -1
+prev = -1
+next_prompt = ""
+for _ in range(iterations):
+    for ch in prompt:
+        if prev == -1:
+            prev = int(ch)
+            count = 1
+        elif prev == int(ch):
+            count += 1
+        else:
+            next_prompt += str(count) + str(prev)
+            prev = int(ch)
+            count = 1
+    next_prompt += str(count) + str(prev)
+    prompt = next_prompt
+    next_prompt = ""
+    count = -1
+    prev = -1
+
+print(len(prompt))
