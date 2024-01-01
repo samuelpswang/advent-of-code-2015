@@ -1,7 +1,5 @@
 # osx
 *.DS_Store
 
-# binaries
-*main
-*input.txt
-*test.txt
+# virtualenv
+.venv
