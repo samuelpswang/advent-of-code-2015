@@ -3,3 +3,7 @@
 
 # virtualenv
 .venv
+
+# input
+*/input.txt
+*/test.txt
