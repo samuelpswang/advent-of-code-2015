@@ -1,3 +1,8 @@
+# File Name:       day_05/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 5 Part 1 (https://adventofcode.com/2015/day/5)
+# Last Updated:    21 Jan 2023
+
 def has_three_vowels(s):
     vowels = "aeiou"
     count = 0

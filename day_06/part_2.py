@@ -1,3 +1,8 @@
+# File Name:       day_06/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 6 Part 2 (https://adventofcode.com/2015/day/6)
+# Last Updated:    21 Jan 2023
+
 instructions = []
 with open("input.txt", "r") as file:
     for line in file:

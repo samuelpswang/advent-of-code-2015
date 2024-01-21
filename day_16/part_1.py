@@ -1,3 +1,8 @@
+# File Name:       day_16/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 16 Part 1 (https://adventofcode.com/2015/day/16)
+# Last Updated:    21 Jan 2023
+
 sues = []
 with open("input.txt", "r") as file:
     for line in file:

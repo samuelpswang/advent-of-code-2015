@@ -1,3 +1,8 @@
+# File Name:       day_24/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 24 Part 1 (https://adventofcode.com/2015/day/24)
+# Last Updated:    21 Jan 2023
+
 from itertools import combinations
 from math import prod
 

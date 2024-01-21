@@ -1,3 +1,8 @@
+# File Name:       day_17/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 17 Part 1 (https://adventofcode.com/2015/day/17)
+# Last Updated:    21 Jan 2023
+
 # read input
 containers = []
 with open("input.txt") as file:

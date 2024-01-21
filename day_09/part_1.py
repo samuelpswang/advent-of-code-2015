@@ -1,3 +1,8 @@
+# File Name:       day_09/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 9 Part 1 (https://adventofcode.com/2015/day/9)
+# Last Updated:    21 Jan 2023
+
 from itertools import permutations
 
 costs = {}

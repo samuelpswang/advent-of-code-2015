@@ -1,3 +1,8 @@
+# File Name:       day_22/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 22 Part 2 (https://adventofcode.com/2015/day/22)
+# Last Updated:    21 Jan 2023
+
 from heapq import heappush, heappop
 from copy import deepcopy
 

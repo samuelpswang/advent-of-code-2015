@@ -1,3 +1,8 @@
+# File Name:       day_11/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 11 Part 2 (https://adventofcode.com/2015/day/11)
+# Last Updated:    21 Jan 2023
+
 from itertools import groupby
 
 def inc(c):

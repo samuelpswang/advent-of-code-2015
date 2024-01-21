@@ -1,3 +1,8 @@
+# File Name:       day_21/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 21 Part 2 (https://adventofcode.com/2015/day/21)
+# Last Updated:    21 Jan 2023
+
 from gekko import GEKKO
 
 # read boss stats

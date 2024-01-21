@@ -1,3 +1,8 @@
+# File Name:       day_10/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 10 Part 2 (https://adventofcode.com/2015/day/10)
+# Last Updated:    21 Jan 2023
+
 from functools import reduce
 
 iterations = 50

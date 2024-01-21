@@ -1,3 +1,8 @@
+# File Name:       day_07/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 7 Part 2 (https://adventofcode.com/2015/day/7)
+# Last Updated:    21 Jan 2023
+
 previous_a = 956
 queue = []
 wires = { 'b': previous_a }

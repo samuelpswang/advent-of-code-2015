@@ -1,3 +1,8 @@
+# File Name:       day_03/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 3 Part 2 (https://adventofcode.com/2015/day/3)
+# Last Updated:    21 Jan 2023
+
 x = y = 0
 rx = ry = 0
 vis = set()

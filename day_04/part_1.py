@@ -1,3 +1,8 @@
+# File Name:       day_04/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 4 Part 1 (https://adventofcode.com/2015/day/4)
+# Last Updated:    21 Jan 2023
+
 from hashlib import md5
 
 def is_valid(key, num):

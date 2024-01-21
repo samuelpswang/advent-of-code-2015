@@ -1,3 +1,8 @@
+# File Name:       day_05/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 5 Part 2 (https://adventofcode.com/2015/day/5)
+# Last Updated:    21 Jan 2023
+
 def has_two_pair(s):
     for i in range(len(s)-1):
         if s.find(s[i:i+2], i+2) != -1:

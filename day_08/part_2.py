@@ -1,3 +1,8 @@
+# File Name:       day_08/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 8 Part 2 (https://adventofcode.com/2015/day/8)
+# Last Updated:    21 Jan 2023
+
 def count_chr(src, tar):
     count = 0
     for ch in src:

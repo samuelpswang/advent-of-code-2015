@@ -1,3 +1,8 @@
+# File Name:       day_18/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 18 Part 1 (https://adventofcode.com/2015/day/18)
+# Last Updated:    21 Jan 2023
+
 # read input
 grid = []
 with open("input.txt") as file:

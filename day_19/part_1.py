@@ -1,3 +1,8 @@
+# File Name:       day_19/part_1.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 19 Part 1 (https://adventofcode.com/2015/day/19)
+# Last Updated:    21 Jan 2023
+
 # read input
 replacements = {}
 start = ""

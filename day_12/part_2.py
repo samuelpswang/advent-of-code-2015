@@ -1,3 +1,8 @@
+# File Name:       day_12/part_2.py
+# Author:          Samuel Wang (@samuelpswang)
+# Purpose:         AoC 2015 Day 12 Part 2 (https://adventofcode.com/2015/day/12)
+# Last Updated:    21 Jan 2023
+
 import json
 
 obj = []
