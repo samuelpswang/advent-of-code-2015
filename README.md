@@ -47,7 +47,7 @@ root/
 
 ### Experience
 
-This is the second Advent of Code event that I had attempted. Compared to the puzzles from 2023, there seemed to be much more number theory puzzles, which I enjoyed very much. See the Notable Topics section below for topics that were interesting and new to me.
+This is the second Advent of Code event that I had attempted. Compared to the puzzles from 2023, there seemed to be much more number theory puzzles. See the Notable Topics section below for topics that were interesting and new to me.
 
 ### Notable Topics
 
