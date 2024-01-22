@@ -4,7 +4,7 @@
 
 ### Intro
 
-This repository is my solution in `Python3.11.7` to the 2015 Advent of Code event. The solutions were written in late 2023 and early 2024 after the completion of the 2023 Advent of Code.
+This repository is my solutions in `Python3.11.7` to the 2015 Advent of Code event. The solutions were written in late 2023 and early 2024 after the completion of the 2023 Advent of Code.
 
 ### Results
 
@@ -47,7 +47,7 @@ root/
 
 ### Experience
 
-This is the second Advent of Code event that I had attempted. Compared to the puzzles from 2023, there seemed to be much more number theory puzzles. See the Notable Topics section below for topics that were interesting and new to me.
+This is the second Advent of Code event that I had attempted. Compared to the puzzles from 2023, most of them seemed to be about [Number Theory](https://en.wikipedia.org/wiki/Number_theory) rather than about graphs. During my puzzle cracking process, I frequently looked to [@mjpieters](https://github.com/mjpieters)'s repository for inspiration and used it as a reference for my programs, I would like to thank him for the guidance he provided unknowingly.
 
 ### Notable Topics
 
